@@ -27,7 +27,7 @@ def main():
 			print('the secret number was: ',secretNumber)
 			print('you were off by: ',secretNumber-userNumber)
 			lain()
-	lain()
+	main()
 main()
 
 
